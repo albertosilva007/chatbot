@@ -1,0 +1,16 @@
+.env
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+data/
+*.db
+*.sqlite
+.DS_Store
+Thumbs.db
+node_modules/
+*.tmp
